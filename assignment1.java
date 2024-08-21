@@ -1,8 +1,8 @@
-package bai2nguyenbatung;
+package assignment1;
 
 import java.util.Scanner;
 
-public class bai2nguyenbatung {
+public class assignment1 {
     public static void main(String[] args) {
       Scanner scanner = new Scanner(System.in);
         System.out.println("nhap so nguyen thu nhat: ");
